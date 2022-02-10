@@ -4,7 +4,7 @@ Hello everyone, my name is Thanh Nguyen and currently I am a Master student focu
 
 # Project 1: Flight Satisfaction Analysis
 * This project goes with:
-  1. [Python note book]((https://github.com/ThanhNg1712/Data-Science-Projects/blob/main/Flight%20Satisfaction/flight_satisfaction.ipynb)) includes:
+  1. [Python note book](https://github.com/ThanhNg1712/Data-Science-Projects/blob/main/Flight%20Satisfaction/flight_satisfaction.ipynb) includes:
       1. Data engineering: Checking, Cleaning missing data, Check classes Balancing
       2. Build classification models: Logistics Regression, Decision Tree with ensemble methods, KNN and parameters tunning for best model-Decision Tree
       3. Obtain Linear Function from Logistic Regression and Important Features from Decision Tree's impurity 
