@@ -4,4 +4,5 @@ Hello everyone, my name is Thanh Nguyen and currently I am a Master student focu
 
 # [Project 1: Flight Satisfaction Analysis](https://github.com/ThanhNg1712/Data-Science-Projects/blob/main/Flight%20Satisfaction/flight_satisfaction.ipynb)
 * This project goes with:
-** 1. [Dataset](https://github.com/ThanhNg1712/Data-Science-Projects/blob/main/Flight%20Satisfaction/satisfaction_2015.xlsx):Dimension is (129880,23), with 18 variables are on rating scale 0-5, target value is satifaction_v2
+  1. [Dataset](https://github.com/ThanhNg1712/Data-Science-Projects/blob/main/Flight%20Satisfaction/satisfaction_2015.xlsx): Dimension is (129880,23), with 18    variables are on rating scale 0-5, target value is satifaction_v2
+  2. [Report](https://github.com/ThanhNg1712/Data-Science-Projects/blob/main/Flight%20Satisfaction/Flight_Satisfaction_report.pdf): a detail of analysis and interpretion of results is provided with clear suggestion and commnents on the final model
